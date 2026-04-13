@@ -1,36 +1,39 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp3eHh6Z3R6bmJpZ3R6bmJpZ3R6bmJpZ3R6bmJpZ3R6bmJpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPqcKGRZaS3u/giphy.gif" width="100%" alt="Computer Science Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Manaf+Alahmed;CS+Student+at+IAU;Backend+Developer" alt="Typing SVG" />
 </p>
 
-# 👋 Hi there, I'm Manaf Alahmed
+# Manaf Alahmed 
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5Znd4M2g3NW8yM3N5YTN0Zndnd3d4eW95YTN0Zndnd3d4eW95YT&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp3eHh6Z3R6bmJpZ3R6bmJpZ3R6bmJpZ3R6bmJpZ3R6bmJpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation">
+</p>
 
 ### 👨‍💻 About Me
 - 🎓 **Computer Science Student** at Imam Abdulrahman bin Faisal University (IAU).
-- 🚀 Passionate about software development, backend engineering, and technical problem-solving.
-- 🎯 Currently focusing on building robust applications and enhancing my technical stack.
-- ✈️ Tech enthusiast with an interest in Aviation and Flight Operations.
-
-<br>
+- 🚀 Passionate about software development and backend engineering.
+- 🎯 Currently focusing on building robust applications and managing databases.
+- ✈️ Tech enthusiast with a deep interest in Aviation.
 
 ---
 
 ### 🛠 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,php,git,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,django,mysql,sqlite,html,css,php,git,vscode" />
 </p>
-
-<br>
 
 ---
 
-### 📂 Featured Projects
-*Since I'm currently organizing my academic projects, stay tuned for:*
-- **C++ Algorithms:** Complex data structures and logic implementation.
-- **Web Applications:** Dynamic sites built using PHP and CSS.
-- **Python Scripts:** Automation and backend logic.
+### 📂  Last Project
+
+#### ✈️ Flight Management System
+*A robust platform for airline ticket management and flight scheduling.*
+- **Role:** Back-end Developer.
+- **Features:** Developed the core logic for flight searching by date, destination filtering, and the ticket booking system.
+- **Technologies Used:**
+  - <img src="https://skillicons.dev/icons?i=python" width="20" /> **Python**
+  - <img src="https://skillicons.dev/icons?i=django" width="20" /> **Django**
+  - <img src="https://skillicons.dev/icons?i=sqlite" width="20" /> **SQLite**
 
 ---
 
@@ -43,10 +46,4 @@
   <a href="mailto:manaf.alahmed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManafAlahmed&layout=compact&theme=radical" />
 </p>
